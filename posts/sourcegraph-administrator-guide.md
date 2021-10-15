@@ -19,7 +19,7 @@ This guide will walk you through the features and functionalities available to y
 ### What is the best deployment option for me?
 We recommend Docker Compose for most initial production deployments. You can [migrate to a different deployment method](https://docs.sourcegraph.com/admin/updates#migrating-to-a-new-deployment-type) later on if needed.
 
-If you need a deployment option offers a higher level of scalability and availability, the [Kubernetes deployment](https://docs.sourcegraph.com/admin/install/kubernetes) would be recommended. 
+If you need a deployment option that offers a higher level of scalability and availability, the [Kubernetes deployment](https://docs.sourcegraph.com/admin/install/kubernetes) would be recommended. 
 
 To help give you a starting point on choosing a deployment option and allocating resources to it, check out our [resource estimator](https://docs.sourcegraph.com/admin/install/resource_estimator)
 
@@ -60,7 +60,7 @@ To check the current version your instance is on, go to Site Admin > Updates:
 
 ### External services 
 
-## Obersvability 
+## Observability 
 
 ### Viewing instance health and metrics
 
